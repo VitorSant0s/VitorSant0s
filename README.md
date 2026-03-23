@@ -30,7 +30,6 @@ Currently based in **Salvador, Brazil**, his primary interests include **Softwar
 ### ⚙️ Current Setup & Projects
 
 * **OS:** Arch Linux ❄️
-* **Hardware:** Developing high-performance applications on Intel Arc & Arrow Lake.
 * **Home Server:** Building a custom wooden-case mini server for 24/7 services.
 * **Robotics:** Teaching basic to intermediate robotics for kids in Salvador.
 
