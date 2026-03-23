@@ -39,7 +39,7 @@ Currently based in **Salvador, Brazil**, his primary interests include **Softwar
 
 <p align="left">
 <a href="https://github.com/VitorSant0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VitorSant0s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/SEU-USER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitorsantos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vitor-de-j-santos-452500224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitorsantos" height="30" width="40" /></a>
 </p>
 
 <br />
